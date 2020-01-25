@@ -1,5 +1,5 @@
 # CS40_Tool
-<h1>Final project for Python Scripting course<h1> <br/>
+<h1>Final project for Python Scripting course<h1>
 <h2>This tool was developed to work only on linux-based operating systems</h2>
 
 <h3>Tool 1: Simple Apache log parser</h3>
